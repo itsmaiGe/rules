@@ -154,6 +154,8 @@ DOMAIN-SUFFIX,xlaomi.net
 DOMAIN-SUFFIX,youpin.cn
 DOMAIN-SUFFIX,youpin.com.cn
 DOMAIN-SUFFIX,zhutidasai.com
+IP-CIDR,43.156.0.0/16,no-resolve
+IP-CIDR,43.160.0.0/16,no-resolve
 IP-CIDR,110.43.63.242/32,no-resolve
 IP-CIDR,111.205.195.120/30,no-resolve
 IP-CIDR,111.205.195.124/31,no-resolve
